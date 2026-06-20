@@ -1,5 +1,7 @@
 ## Configuration
 config.json
+appSettings.json
+appsettings.*.json
 
 ## Database
 *.db
